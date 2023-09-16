@@ -1,0 +1,26 @@
+Head
+	Basic information about the website
+	SEO syntax about the website
+
+	additionalPlugins
+Body
+	Header
+		The logo and the setting button
+		Tabs for quick jump
+	Main
+		Introduction to the website
+			Basic Information
+			Experiences
+			Qualifications
+			Affilations
+			Projects
+			CV
+			Resume
+		Feedback
+			Articles
+				loop 10 for i: display article(i)
+	Footer
+		The logo (2)
+		Creative Commons
+		Contact Information
+		Terms and Conditions

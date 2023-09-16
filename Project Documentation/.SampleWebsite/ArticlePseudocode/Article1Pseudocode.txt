@@ -1,0 +1,35 @@
+Head
+	Basic information about the website
+	SEO syntax about the website
+
+    additionalPlugins
+    KaTeXPlugin
+Body
+	Header
+		The logo and the setting button
+        Title of the page
+        Author
+        Date
+	Main
+        Outline
+        Section id=1
+            Subheader
+            Paragraph
+            Image
+            Paragraph
+
+        Section id=2
+            Subheader
+            Paragraph
+            Image
+            Paragraph
+            LaTeX equation
+            Paragraph
+            LaTeX equation
+            Code block
+            Paragraph
+	Footer
+		The logo (2)
+		Creative Commons
+		Contact Information
+		Terms and Conditions

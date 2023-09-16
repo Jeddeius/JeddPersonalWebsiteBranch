@@ -1,0 +1,29 @@
+Head
+	Basic information about the website
+	SEO syntax about the website
+
+	additionalPlugins
+Body
+	Header
+		The logo and the setting button
+        Title of the page
+        Author
+        Date
+	Main
+		Outline
+        Section id=1
+            Paragraph
+            Image
+            Paragraph
+
+        Section id=2
+            Paragraph
+            Image
+            Paragraph
+            Codeblock
+            Paragraph
+	Footer
+		The logo (2)
+		Creative Commons
+		Contact Information
+		Terms and Conditions
