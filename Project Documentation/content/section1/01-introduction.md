@@ -8,7 +8,9 @@
     - [Purpose](#purpose)
     - [Pre-requisite (for developers)](#pre-requisite-for-developers)
     - [Audience](#audience)
-    - [Backhround](#background)
+    - [Background](#background)
+    - [Scope and Delimitations](#scope-and-delimitations)
+    - [Document Organization](#document-organization)
 
 ## Introduction
 
@@ -55,4 +57,4 @@ This project assumes that you have atleast, fundamental knowledge of Web Develop
 
 The document is structuted so that learning and adapting to the codebase would be easier. It would follow a textbook like flow, startung from the pre-requisite, introduction or the fundamentals to know, to the tools used to build the app, up to the slow buildup or being familiarized ang getting used to the enbironment and workflow of the project.
 
-**Up Next: ** [Getting Started](02-GettingStarted.md)
+**Up Next:** [Getting Started](02-GettingStarted.md)
