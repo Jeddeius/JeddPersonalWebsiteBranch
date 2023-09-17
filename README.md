@@ -17,7 +17,11 @@ Version Number: Version Alpha
 [Instagram]
 [Facebook]
 
+---
 
+## Notice
+
+Right now, 
 
 <!-- REFERENCES -->
 
