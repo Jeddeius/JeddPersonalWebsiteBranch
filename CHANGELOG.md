@@ -5,5 +5,5 @@
 - Added Essential Folders Like the following: Main Website; Project Documentation and its sub-folders.
 - Added CHANGELOG, LICENSE, and README files
 - Added index.html
-- Added: Pseudo Website made out of Markdown
+- Added: Concept Website to lay out the content
 - Feature: Documentation

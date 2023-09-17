@@ -19,9 +19,11 @@ Version Number: Version Alpha
 
 ---
 
-## Notice
+## Notice (as of September 17, 2023)
 
-Right now, 
+Right now, the website is at its infant stage. The content that will be later be inputed will be generated first as well as brainstorming about what would be the content of the website be and how it will be organized and presented.
+
+The concept website will be presented with nothing but markdown over the [Concept Website Folder](Concept%20Website/index.md). Feel free to give feedback and suggestion through the repository.
 
 <!-- REFERENCES -->
 
