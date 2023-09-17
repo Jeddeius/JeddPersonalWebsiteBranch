@@ -1,7 +1,9 @@
 # Jeddeius' Portfolio Website
 
 By: Jeddeius Matthew J. Tolentino
+
 Date: No Date
+
 Version Number: Version Alpha
 
 **NOTE:** Read the README first, then jump ahead to [introduction](Project%20Documentation/content/section1/01-introduction.md)
